@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://d.wattpad.com/story_parts/627920861/images/1551b588fadc50de330518113844.gif" alt="gif" width="48" height="48"></img>
+<img align="center" src="https://d.wattpad.com/story_parts/627920861/images/1551b588fadc50de330518113844.gif" alt="gif" width="256" height="256"></img>
 
 <br>
 
