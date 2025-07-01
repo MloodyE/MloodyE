@@ -3,10 +3,9 @@
 
 <br>
 
-<h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm MloodyE from Poland<br><br>- 🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...<br>- 📚 I'm currently learning: Redis, React<br>- ⚡ In my free time: I sleep.</p>
-
-<br>
+<h3 align="left">🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h3>
+<h3 align="left">🌱 I’m currently learning: <strong>Redis, React</strong></h3>
+<h3 align="left">📫 How to reach me: <strong>Discord: MloodyE</strong></h3>
 
 <h4 align="left">🛠 Language and tools</h4>
 <p align="left"> 
