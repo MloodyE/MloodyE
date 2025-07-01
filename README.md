@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="left">👽 About me: <img src="https://d.wattpad.com/story_parts/627920861/images/1551b588fadc50de330518113844.gif" alt="gif" width="32" height="32"></h3>
+<h3 align="left">👽 About me: </h3>
   <h4>   🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h4>
   <h4>   🌱 I’m currently learning: Redis, React</h4>
   <h4>   📫 How to reach me: Discord: MloodyE</h4>
