@@ -7,6 +7,8 @@
 <h3 align="left">🌱 I’m currently learning: <strong>Redis, React</strong></h3>
 <h3 align="left">📫 How to reach me: <strong>Discord: MloodyE</strong></h3>
 
+<br>
+
 <h4 align="left">🛠 Language and tools</h4>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
