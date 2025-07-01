@@ -7,6 +7,7 @@
   <h4>   🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h4>
   <h4>   🌱 I’m currently learning: Redis, React</h4>
   <h4>   📫 How to reach me: Discord: MloodyE</h4>
+  <h4>   ⚡ Fun fact: I sleep.</h4>
 <br>
 
 <h3 align="left">🛠 Language and tools</h3>
