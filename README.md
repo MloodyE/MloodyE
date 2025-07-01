@@ -4,12 +4,9 @@
 <br>
 
 <h3 align="left">🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h3>
-
 <h3 align="left">🌱 I’m currently learning: <strong>Redis, React</strong></h3>
-
 <h3 align="left">📫 How to reach me: <strong>Discord: MloodyE</strong></h3>
 
-<br>
 <br>
 
 <h4 align="left">🧰 Languages and Tools:</h4>
