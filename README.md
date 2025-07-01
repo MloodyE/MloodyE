@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MloodyE (Młody)</h1>
 <h3 align="center">Ideas. Code. Results.</h3>
 
-<h4>🔭 I’m currently working on <strong>luckyplay.pl, fenixmc.pl and ...</strong></h4>
+<h3 align="center">🔭 I’m currently working on <strong>luckyplay.pl, fenixmc.pl and ...</strong> 🔭</h3>
+<h4 align="center">────────────────────</h4>
 <h4>🌱 I’m currently learning <strong>Redis, React</strong></h4>
 <h4>📫 How to reach me <strong>Discord: MloodyE</strong></h4>
 <h4>⚡ Fun fact <strong>I sleep.**</strong></h4>
