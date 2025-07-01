@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm MloodyE (Młody)</h1>
 <h3 align="center">Ideas. Code. Results.</h3>
 
-<h3 align="center">🔭 I’m currently working on <strong>luckyplay.pl, fenixmc.pl and ...</strong></h3>
+<h3 align="left">🔭 I’m currently working on <strong>luckyplay.pl, fenixmc.pl and ...</strong></h3>
 <h4 align="center">────────────────────</h4>
 
-<h3>🌱 I’m currently learning <strong>Redis, React</strong></h3>
+<h3 align="left">🌱 I’m currently learning <strong>Redis, React</strong></h3>
 <h4 align="center">────────────────────</h4>
 
-<h3>📫 How to reach me <strong>Discord: MloodyE</strong></h3>
+<h3 align="left">📫 How to reach me <strong>Discord: MloodyE</strong></h3>
 <h4 align="center">────────────────────</h4>
 
-<h3>⚡ Fun fact <strong>I sleep.**</strong></h4>
+<h3 align="left">⚡ Fun fact <strong>I sleep.**</strong></h4>
 <h4 align="center">────────────────────</h4>
 
 <h4 align="left">🧰 Languages and Tools:</h4>
