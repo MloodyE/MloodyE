@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="left">🔭 I’m currently working on *luckyplay.pl, fenixmc.pl and ...*</h3>
+<h3 align="left">🔭 I’m currently working on _luckyplay.pl, fenixmc.pl and ..._</h3>
 
 <h3 align="left">🌱 I’m currently learning <strong>Redis, React</strong></h3>
 
