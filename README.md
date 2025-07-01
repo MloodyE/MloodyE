@@ -3,11 +3,10 @@
 
 <br>
 
-<h3 align="left">👽 About me:</h3>
-  <h4>   🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h4>
-  <h4>   🌱 I’m currently learning: Redis, React</h4>
-  <h4>   📫 How to reach me: Discord: MloodyE</h4>
-
+<h2 align="left">👽 About me:</h3>
+  <h3>   🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h3>
+  <h3>   🌱 I’m currently learning: Redis, React</h3>
+  <h3>   📫 How to reach me: Discord: MloodyE</h3>
 <br>
 
 <h3 align="left">🛠 Language and tools</h3>
