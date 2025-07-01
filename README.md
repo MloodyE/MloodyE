@@ -3,7 +3,7 @@
 
 <br>
 
-<h2 align="left">👽 About me:</h3>
+<h4 align="left">👽 About me:</h4>
   <h3>   🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h3>
   <h3>   🌱 I’m currently learning: Redis, React</h3>
   <h3>   📫 How to reach me: Discord: MloodyE</h3>
