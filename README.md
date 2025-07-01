@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MloodyE (Młody)</h1>
 <h3 align="center">Ideas. Code. Results.</h3>
 
-<br>
-
-<img style="margin-auto" align="center" src="https://d.wattpad.com/story_parts/627920861/images/1551b588fadc50de330518113844.gif" alt="gif" width="256" height="256"></img>
+<p align="center">
+  <img src="https://d.wattpad.com/story_parts/627920861/images/1551b588fadc50de330518113844.gif" alt="gif" width="256" height="256">
+</p>
 
 <br>
 
