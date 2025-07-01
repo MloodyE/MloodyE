@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MloodyE (Młody)</h1>
 <h3 align="center">Ideas. Code. Results.</h3>
 
-- 📫 How to reach me:
+📫 Contant:
      Discord: MloodyE
 
 <h3 align="left">Connect with me:</h3>
