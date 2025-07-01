@@ -3,11 +3,9 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://d.wattpad.com/story_parts/627920861/images/1551b588fadc50de330518113844.gif" alt="gif" width="128" height="128">
 </p>
-
-<br>
 
 <h3 align="left">👽 About me:</h3>
   <h4>   🔭 I’m currently working on: luckyplay.pl, fenixmc.pl and ...</h4>
