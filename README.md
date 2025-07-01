@@ -2,7 +2,7 @@
 <h3 align="center">Ideas. Code. Results.</h3>
 
 - 📫 How to reach me:
--  Discord: MloodyE
+     Discord: MloodyE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
