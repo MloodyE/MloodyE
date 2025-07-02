@@ -5,7 +5,7 @@
 
 <h3 align="left">👽 About me: </h3>
   <h4>   🔭 I’m currently working on: undenefined, undenefined-two and ...</h4>
-  <h4>   🌱 I’m currently learning: Redis, React</h4>
+  <h4>   🌱 I’m currently learning: Redis</h4>
   <h4>   📫 How to reach me: Discord: MloodyE</h4>
   <h4>   ⚡ Fun fact: I sleep.</h4>
 <br>
