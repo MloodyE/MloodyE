@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/JIo6qmL.png">
+
+<br>
+
 # 👽 About me:
 ### ◆ 🔭 I'm currently working on: `several projects.` 🤫</h4>
 ### ◆ ⚡ Fun fact: `I sleep.` 😴</h4>
@@ -12,6 +16,6 @@
 <br>
 <br>
 
-> [!IMPORTANT]
+> [!TIP]
 > Contact: `[ Discord ] MloodyE`
 
